@@ -17,15 +17,15 @@ hide_description: true
 # TODO
 image: /assets/img/blog/hydejack-8.png
 ---
-
+<!-- 
 The "Best Jekyll Theme by a Mile".
-{:.lead}
+{:.lead} -->
 
 ![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
 Hydejack's cover page on a variety of screens.
 {:.figure}
 
-**Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
+<!-- **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
 
 > Your presence on the web — A [blog], a [portfolio], and a [resume].
 {:.lead}
@@ -193,4 +193,4 @@ This table below shows what's included in each version:
 [katex]: https://khan.github.io/KaTeX/
 [tinyletter]: https://tinyletter.com/
 
-*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations. -->
