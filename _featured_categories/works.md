@@ -13,7 +13,7 @@ description: >
   My music, in sheet music, audio, visual, code, or purely conceptual forms. 
 ---
 
-{% for works in site.workss %}
+{% for works in site.works %}
   <h2>{{ works.name }}</h2>
   <h3>{{ works.instrumentation - works.length }}</h3>
   <p>{{ works.content | markdownify }}</p>
