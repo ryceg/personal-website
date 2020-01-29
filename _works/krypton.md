@@ -2,7 +2,7 @@
 name: Krypton
 instrumentation: large mixed ensemble
 length: 20
-date: 2019
+dateofcomposition: 2017
 url: https://soundcloud.com/user-427073505/sets/neon-krypton-by-rhys-gray
 image: ./assets/neon.jpg
 
