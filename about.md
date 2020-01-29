@@ -15,14 +15,14 @@ description: >
 hide_description: true
 
 # TODO
-image: /assets/img/blog/hydejack-8.png
+image: /assets/img/075A8588.jpg
 ---
 <!-- 
 The "Best Jekyll Theme by a Mile".
 {:.lead} -->
 
-![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
-Hydejack's cover page on a variety of screens.
+![Screenshot](assets/img/075A8588.jpg){:.lead srcset="/assets/img/075A8588.jpg 1920w, /assets/img/075A8588.jpg@0,5x 960w, /assets/img/075A8588.jpg@0,25x 480w" data-width="1920" data-height="1080"}
+Here's a picture of my face.
 {:.figure}
 
 Rhys Gray was born in Hobart, Tasmania in 1996. He grew up in the picturesque Huon Valley, and attended Taroona High School and Elizabeth College. He enrolled at UTas under the High Achiever's Program, and was awarded both a Bachelor of Music majoring in Composition, and an Associate's Degree in Music Studies majoring in ensemble performance in 2018.
