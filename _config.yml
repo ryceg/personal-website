@@ -228,6 +228,9 @@ collections:
   projects:
     permalink:         /projects/:path/
     output:            true
+  works:
+    permalink:         /works/:path/
+    output:            true
 
 
 # File inclusion/exclusion
