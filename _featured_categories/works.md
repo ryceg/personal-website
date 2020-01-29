@@ -14,7 +14,7 @@ description: >
 ---
 
 {% for works in site.works %}
-  <a href="{{ works.url }}"><h2>{{ works.title }}</h2></a>
+  <h2><a href="{{ works.url }}">{{ works.title }}</a></h2>
   <h3>{{ works.instrumentation - works.date - works.length }}</h3>
   <p>{{ works.content | markdownify }}</p>
 {% endfor %}
