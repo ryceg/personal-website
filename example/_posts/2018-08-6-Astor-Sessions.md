@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [blog, music]
+tags: [music]
 ---
 Well, that's a wrap! I just finished Music Tasmania's [Astor Sessions](https://www.musictasmania.org/whats-happening/the-astor-sessions) weekend at the Astor Hotel in Hobart, and have come out the other end with a newfound appreciation for the work that goes into creating a 15 second Instagram clip (and a slight hangover!)
 

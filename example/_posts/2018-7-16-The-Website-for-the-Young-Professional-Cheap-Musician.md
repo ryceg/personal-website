@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [code]
+tags: [code, tutorial]
 ---
 It's the classic move.
 

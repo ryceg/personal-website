@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [blog, music]
+tags: [music]
 ---
 I'm very excited to announce that I've been selected as one of ten people to participate in Music Tasmania's [Astor Sessions](https://www.musictasmania.org/whats-happening/the-astor-sessions)! 
 

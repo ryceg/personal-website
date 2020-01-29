@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [blog, music]
+tags: [music, utas]
 ---
 Pleased to announce that I will be returning to the Conservatorium of Music this year, doing an Honours degree in musical composition. I've been awarded the Sir Victor Burley Postgraduate Music Scholarship to help me along with this.
 

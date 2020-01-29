@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [blog, music]
+tags: [music, performance]
 ---
 Very excited to announce that I will be a guest artist at the next episode of Underground Art Bar, performing with my partner, Claire Farrell! 
 

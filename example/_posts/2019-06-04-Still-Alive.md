@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [blog]
+tags: [blog]
 ---
 I'm painfully aware that my presence online has been somewhat lacking.
 

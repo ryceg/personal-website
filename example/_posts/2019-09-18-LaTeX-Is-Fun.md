@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [blog, latex, code]
+tags: [code]
 ---
 I've been doing my thesis in LaTex, which has been a challenging learning curve, but well worth it- the results have been incredible, and it has been a joy to use. 
 

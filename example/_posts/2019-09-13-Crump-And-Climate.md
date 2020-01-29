@@ -1,5 +1,7 @@
 ---
 published: true
+categories: [blog]
+tags: [music, engraving, environment]
 ---
 The world seems to be telling me to appreciate nature more- I just finished engraving another work for a previous client, Steve Crump, who writes beautiful music about the Tarkine, Tasmania, and is a frequent collaborator with Bob Brown, and I also attended the Climate Rally in Hobart. 
 

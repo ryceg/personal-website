@@ -1,6 +1,8 @@
 ---
 layout: post
 title: We're up and running!
+categories: [blog, code]
+tags: [blog]
 ---
 Hooray! Finally figured out hosting on GitHub. This was a really easy and painless process using the Jekyll Now template. I'll be putting up a tutorial soon enough.
 
