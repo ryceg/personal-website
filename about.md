@@ -222,4 +222,4 @@ This table below shows what's included in each version:
 [katex]: https://khan.github.io/KaTeX/
 [tinyletter]: https://tinyletter.com/
 
-*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations. --> -->
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations. --> 
