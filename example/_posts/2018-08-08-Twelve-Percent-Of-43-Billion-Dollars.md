@@ -15,7 +15,7 @@ Goldberg as his architect.”
 
 * Spotify pays $0.0007 per stream. This came up recently in the Astor Sessions, and I maintain my position; if you are expecting to make money from Spotify, you will be sorely disappointed.
 
-![Thanks to David McCandless, InformationIsBeautiful.net for this graphic]({{site.baseurl}}/images/streamwage.jpg)
+![Thanks to David McCandless, InformationIsBeautiful.net for this graphic]({{site.baseurl}}/assets/img/streamwage.jpg)
 
 
 * Bands make most of their money on tours. Unfortunately, LiveNation, TicketMaster, StubHub, and other ticket sellers act as unneeded middle men, free to skim off the top of the ticket price due to exclusivity contracts with venues.

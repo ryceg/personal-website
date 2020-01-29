@@ -27,7 +27,7 @@ We'll be using Jekyll Now, which is kind of the web equivalent of one of those p
 
 First step, you're going to want to create a GitHub account. Then, navigate to [Jekyll Now](https://github.com/barryclark/jekyll-now), and hit the 'Fork' button, which is right next to the 'Watch' and 'Star' button. This will create a clone of the prefab, which is 'your' website.
 
-![Click the thing circled in red]({{site.baseurl}}/images/githubFork.png)
+![Click the thing circled in red]({{site.baseurl}}/assets/img/githubFork.png)
 
 Go into the 'Settings' page, and for sake of keeping things clean, untick the features 'Wikis', 'Restrict Editing', 'Issues', and 'Projects'. Those are programming things.
 
@@ -41,7 +41,7 @@ Name: @, 		Type: A, 		TTL: 1h, 	Data: 192.30.252.153
 												  192.30.252.154
 Name: wwww, 	Type: CNAME, 	TTL: 1h, 	Data: rhysgraymusic.com
 
-![obviously replace rhysgraymusic with your own site!]({{site.baseurl}}/images/dns.png)
+![obviously replace rhysgraymusic with your own site!]({{site.baseurl}}/assets/img/dns.png)
 
 ### Making the site **yours**
 

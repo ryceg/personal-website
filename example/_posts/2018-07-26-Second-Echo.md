@@ -3,7 +3,7 @@ published: true
 ---
 Pre-sales for Second Echo Ensemble's "Contested Land" show have just started! I was lucky enough to participate in this wonderful project in early 2017, where I composed a short piece, which was recorded by the Tasmanian Symphony Orchestra. You can listen to it [here](https://soundcloud.com/user-427073505/the-contest-by-rhys-gray)!
 
-![my silly ol' mug talking to the wonderful Tasmanian Symphony Orchestra]({{site.baseurl}}/images/075A8588.jpg)
+![my silly ol' mug talking to the wonderful Tasmanian Symphony Orchestra]({{site.baseurl}}/assets/img/075A8588.jpg)
 
 
 
