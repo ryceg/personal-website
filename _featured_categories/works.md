@@ -19,4 +19,4 @@ description: >
   <p>{{ works.content | markdownify }}</p>
 {% endfor %}
 
-<h3><a href="{{ list-of-works.url }}">{{ list-of-works.title }}</a></h3>
+<h3><a href="{{ site.list-of-works.url }}">{{ site.list-of-works.title }}</a></h3>
