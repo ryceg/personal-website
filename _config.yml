@@ -42,6 +42,8 @@ logo:                  /assets/icons/icon.png
 author:
   name:                Rhys Gray
   email:               contact@rhysgraymusic.com
+  picture:             /assets/img/me-headshot.jpg
+
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -265,6 +267,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-avatar
   - jekyll-titles-from-headings
 
 # Theme
