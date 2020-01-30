@@ -18,3 +18,5 @@ description: >
   <h3>{{ works.instrumentation }} - {{ works.dateofcomposition }} - {{ works.length }}</h3>
   <p>{{ works.content | markdownify }}</p>
 {% endfor %}
+
+<h3><a href="{{ list-of-works.url }}">{{ list-of-works.title }}</a></h3>
