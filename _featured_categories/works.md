@@ -20,3 +20,4 @@ description: >
 {% endfor %}
 
 <h3><a href="{{ site.list-of-works.url }}">{{ site.list-of-works.title }}</a></h3>
+[List of works]({% post_url list-of-works %})
