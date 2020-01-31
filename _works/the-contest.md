@@ -6,6 +6,7 @@ dateofcomposition: 2017
 url: https://soundcloud.com/user-427073505/sets/the-contest-by-rhys-gray
 # image: ./assets/neon.jpg
 layout: about
+excerpt_separator: <!--more-->
 
 ---
 
