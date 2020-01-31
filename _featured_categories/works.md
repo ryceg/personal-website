@@ -10,8 +10,7 @@ slug: Works
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  My music, in sheet music, audio, visual, code, or purely conceptual forms. [Full list of works](/list-of-works)
-{:.faded}
+  My music, in sheet music, audio, visual, code, or purely conceptual forms.
 ---
 
 {% for works in site.works %}
