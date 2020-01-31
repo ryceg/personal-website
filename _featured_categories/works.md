@@ -14,11 +14,9 @@ description: >
 ---
 
 {% for works in site.works %}
-  <!-- {% if {{ works.title }} != "list-of-works" %} -->
   <h2><a href="{{ works.url }}">{{ works.title }}</a></h2>
   <h3>{{ works.instrumentation }} - {{ works.dateofcomposition }} - {{ works.length }}</h3>
   <p>{{ works.content | markdownify }}</p>
-  <!-- {% endif %} -->
 {% endfor %}
 
 <h3><a href="{{ site.list-of-works.url }}">{{ site.list-of-works.title }}</a></h3>
