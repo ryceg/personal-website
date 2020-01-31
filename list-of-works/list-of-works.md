@@ -15,11 +15,12 @@ permalink: /list-of-works/
 description: >
   A list of my complete works.
 ---
+## Forthcoming
 
-*
-*
-*
-*
+* String Quartet No. 1 - 2vln, vla, vc - 25'
+* do you love the colour of the sky - voice, electronics - 8'
+* how to decay gracefully - vc - 16'
+
 ## 2019
 
 * doppelganger - vla - 3'30
