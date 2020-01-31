@@ -19,5 +19,4 @@ description: >
   <p>{{ works.content | markdownify }}</p>
 {% endfor %}
 
-<h2><a href="{{ /list-of-works }}">List of works</a></h2>
-{:.faded}
+<h2>[List of works](/list-of-works)</h2>
