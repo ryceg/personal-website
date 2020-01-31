@@ -21,5 +21,5 @@ description: >
   <!-- {% endif %} -->
 {% endfor %}
 
-<!-- <h3><a href="{{ site.list-of-works.url }}">{{ site.list-of-works.title }}</a></h3> -->
-<h2>[List of works]({% link _works/list-of-works.md %})</h2>
+<h3><a href="{{ site.list-of-works.url }}">{{ site.list-of-works.title }}</a></h3>
+<!-- <h2>[List of works]({% post_url /works/list-of-works %})</h2> -->
