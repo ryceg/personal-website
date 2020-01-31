@@ -10,7 +10,7 @@ layout: about
 ---
 Krypton was a collaboration between myself and the DRILL Dance Ensemble, Tasmanian Symphony Orchestra, and choreographer Angela Barnard for their 2019 season '__NEON__'.
 
-{% include carousel.html name=”Example” data=site.data.neon %}
+{% include carousel.html name="neon" data=site.data.neon %}
 
 [DRILL Press Release](https://www.drillperformance.com/neon)
 
