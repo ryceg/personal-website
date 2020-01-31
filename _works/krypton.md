@@ -27,4 +27,4 @@ Krypton was a collaboration between myself and the DRILL Dance Ensemble, Tasmani
 * Mvt IV: Pew! Pew! 2: Electric Boogaloo
 * Mvt V: <sup>85</sup>Kr
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/856293137&color=%23ababab&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/856293137&color=%23ababab&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
