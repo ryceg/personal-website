@@ -1,7 +1,7 @@
 ---
 name: Music for Mouthbreathers
 instrumentation: four voices
-length: 4
+length: 4'12"
 dateofcomposition: 2019
 url: https://youtu.be/sPHbmvJXn5E
 layout: about

@@ -15,13 +15,20 @@ description: >
 
 ## 2019
 
+doppelganger - vla - 3'30
+liminal - vc - 2'30
+the veldt - double bass - 7'
+what are you doing with the humans - vln - 4'
+Can These Bones Live? - sop,pno - 4'
+Clathrate Gun Hypothesis - recorder, alto voice, electronics - 7'
 On The Mortality of Rabbit – 2vln, vla, vc – 4’
 Trio for Flutes – picc,2fl – 6’
 It Rains On Chernobyl – fl,ob,cl,hn,bsn – 5’30
-Push – alto,pno – 3’ (commissioned as part of the Living Room Musical project)
-Krypton – 1011,1120,perc,str (recorded by Tasmanian Symphony Orchestra, performed by DRILL Dance ensemble in 2019 season “NEON”)
+
 ## 2018
 
+Push – alto,pno – 3’ (commissioned as part of the Living Room Musical project)
+Krypton – 1011,1120,perc,str (recorded by Tasmanian Symphony Orchestra, performed by DRILL Dance ensemble in 2019 season “NEON”)
 He Wishes for the Cloths of Heaven - SATB choir, pno - 3'20
 He Tells of the Perfect Beauty - SATB choir, pno - 3'
 The Ones Who Walk Away From Omelas - 2+picc,2,3+bcl,1+cbn-2ax,tx,bx-4,3,3db,euph,1-db,timp,perc(2)[sus. cym, sd, ss] - 8'30 (performed by Hobart Wind Symphony)
