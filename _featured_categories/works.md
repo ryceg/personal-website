@@ -19,4 +19,4 @@ description: >
   <p>{{ works.content | markdownify }}</p>
 {% endfor %}
 
-<h2>[List of works](/list-of-works)</h2>
+[List of works](/list-of-works)
