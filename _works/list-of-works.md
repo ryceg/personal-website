@@ -9,7 +9,7 @@ title: Complete List of Works
 slug: works
 
 # The permalink
-permalink: /list-of-works/
+# permalink: /list-of-works/
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
