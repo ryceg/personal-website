@@ -7,6 +7,7 @@ title: Complete List of Works
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: works
 
+# The permalink
 permalink: /list-of-works/
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
