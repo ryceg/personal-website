@@ -76,8 +76,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /page-:num/
 
-algolia:
-  application_id: '0Q5MPF2NF2'
+# algolia:
+#   application_id: '0Q5MPF2NF2'
 
 # Customizaton
 # ========================================================================================
