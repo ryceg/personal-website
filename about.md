@@ -29,9 +29,7 @@ Rhys Gray was born in Hobart, Tasmania in 1996. He grew up in the picturesque Hu
 
 Known for his polystylism and broad range of influences, Rhys composes for concert hall, stage, screen, and computers. His works have been performed by the Australian String Quartet, Second Echo Ensemble, Tasmanian Symphony Orchestra, DRILL dance ensemble, Derwent Valley Concert Band, Taroona High School Concert Band, and many solo artists. 
 
-Rhys has been engaged by the UTas wind ensemble, Taroona High School, and many solo artists to undertake arranging, orchestration, engraving, and other music preparation services. You can contact him for a quote on these services at [contact@rhysgraymusic.com](mailto:contact@rhysgraymusic.com), with rates starting as low as $0.3 per active frame.
-
-Rhys is an avid lover of musical theatre, and has performed keys and/or MD'd in many local shows, including Wicked, Into The Woods, Chicago, The Drowsy Chaperone, and Thoroughly Modern Millie.
+Rhys is an avid lover of musical theatre, and has performed keys and/or MD'd in many local shows, including Mamma Mia, My Fair Lady, Wicked, Into The Woods, Chicago, The Drowsy Chaperone, and Thoroughly Modern Millie.
 
 ## Awards & Prizes
 

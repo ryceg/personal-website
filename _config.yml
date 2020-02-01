@@ -55,6 +55,8 @@ menu:
     url:               /works/
   - title:             About
     url:               /about/
+  - title:             Services
+    url:               /services/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -74,6 +76,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /page-:num/
 
+algolia:
+  application_id: '0Q5MPF2NF2'
 
 # Customizaton
 # ========================================================================================

@@ -29,6 +29,9 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
+  gem 'jekyll-algolia', '~> 1.0'
+  gem 'jekyll-timeago'
+  gem 'liquid_reading_time'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
