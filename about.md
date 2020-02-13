@@ -47,9 +47,7 @@ Rhys is an avid lover of musical theatre, and has performed keys and/or MD'd in 
 
 I have two cats, called Millie and Buttercup.
 
-### Contact me
-
-[contact@rhysgraymusic.com](mailto:contact@rhysgraymusic.com)
+{% include typeform.html %}
 
 
 <!-- **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.

@@ -39,4 +39,4 @@ I have programmed patches for several shows, including Wicked, Mamma Mia, My Fai
 ### Rush Service
 A 30% loading charge is applied for jobs that need to be completed in short periods of time.
 
-You can contact me for a more precise quote on these services at [contact@rhysgraymusic.com](mailto:contact@rhysgraymusic.com).
+{% include typeform.html %}
