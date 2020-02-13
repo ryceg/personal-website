@@ -47,8 +47,8 @@ Rhys is an avid lover of musical theatre, and has performed keys and/or MD'd in 
 
 I have two cats, called Millie and Buttercup.
 
-{% include typeform.html %}
-
+<!-- {% include typeform.html %} -->
+<div class="typeform-widget" data-url="https://rhysg3.typeform.com/to/SmCDav" data-transparency="50" data-hide-headers=true data-hide-footer=true style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=SmCDav&utm_source=typeform.com-01E0Y41SY9AXX6H7PB9FQ9FEK3-professional&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
 <!-- **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
 
