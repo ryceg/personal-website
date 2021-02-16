@@ -18,8 +18,9 @@ description: >
 ## Forthcoming
 * String Quartet No. 1 - 2vln, vla, vc - 25'
 * do you love the colour of the sky - voice, electronics - 8'
-* how to decay gracefully - vc - 16'
 
+## 2020
+* how to decay gracefully - recorder - 3'40'
 ## 2019
 * doppelganger - vla - 3'30
 * liminal - vc - 2'30
