@@ -3,7 +3,7 @@ layout: about
 title: Services
 slug: Services
 description: |
-  Hire me.
+  Learn about what I can do for you, and then hire me.
 published: true
 ---
 
