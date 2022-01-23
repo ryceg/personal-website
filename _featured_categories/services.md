@@ -37,5 +37,4 @@ Have you seen one of my works, and would like to purchase a copy of the score? I
 
 {% include typeform.html %}
 
-> ### Rush Service
 > A 30% loading charge is applied for jobs that need to be completed in short periods of time.
