@@ -9,9 +9,10 @@ published: true
 
 I have been engaged by the Tasmanian Symphony Orchestra, Hutchins, the UTas wind ensemble, Taroona High School, Tasmanian Youth Orchestra, and many more to undertake arranging, orchestration, engraving, and other music preparation services.
 
-> Ever try and research costs for a project, but can't for the life of you get a quote without contacting them? Me too. I hate that. I charge **$66 an hour** for all my services. You're welcome.
+> Ever try and research costs for a project, but can't for the life of you get a quote without contacting them? Me too. I hate that. I charge **$66 an hour** for all my services*. You're welcome.
 {:.lead}
 
+{% include typeform.html %}
 
 ### Transcription
 Got a .pdf that needs to be turned into a .sib file? Easy. I can do anything from Beethoven, to hand written New Complexicist scores. I can reconstruct missing parts from conductor scores, and transpose from one instrument to another.
@@ -37,4 +38,4 @@ Have you seen one of my works, and would like to purchase a copy of the score? I
 
 {% include typeform.html %}
 
-> A 30% loading charge is applied for jobs that need to be completed in short periods of time.
+> *A 30% loading charge is applied for jobs that need to be completed in short periods of time.
