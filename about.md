@@ -1,21 +1,11 @@
 ---
-# This page uses Hydejack's `about` layout, which shows the primary author's picture and about text at the top.
-# You can change it to the regular `page` layout if you want.
 layout: about
-
-# The title of the page.
 title: About
-
-# Write a short (~150 characters) description of each blog post.
-# This description is used to preview the page on search engines, social media, etc.
-description: >
+description: |
   Rhys Gray, his music, ramblings, and possibly the food that he eats.
-
-# You can show the description on the page by deleting this line:
 hide_description: true
-
-# TODO
 image: /assets/img/075A8588.jpg
+published: true
 ---
 <!-- 
 The "Best Jekyll Theme by a Mile".
@@ -45,7 +35,7 @@ Rhys is an avid lover of musical theatre, and has performed keys and/or MD'd in 
  
 ### More Information
 
-I have two cats, called Millie and Buttercup.
+I have three guinea pigs, called Hildegard Von Piggen, Miriam Hide, and Peggy Glanville-Squeaks.
 
 {% include typeform.html %}
 
@@ -217,4 +207,4 @@ This table below shows what's included in each version:
 [katex]: https://khan.github.io/KaTeX/
 [tinyletter]: https://tinyletter.com/
 
-*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations. --> 
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations. -->
