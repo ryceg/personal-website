@@ -35,7 +35,7 @@ Are you a musician or part of a group that likes my works so much that want me t
 ### Score Hire
 Have you seen one of my works, and would like to purchase a copy of the score? I love my works being performed! Contact me.
 
-> ### Rush Service
-A 30% loading charge is applied for jobs that need to be completed in short periods of time.
-
 {% include typeform.html %}
+
+> ### Rush Service
+> A 30% loading charge is applied for jobs that need to be completed in short periods of time.
